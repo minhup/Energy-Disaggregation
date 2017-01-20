@@ -1,1 +1,0 @@
-What happens when you initialize a respository? Why do you need to do it?
